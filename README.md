@@ -1,2 +1,3 @@
 # NodeJourney
-node lesson 1
+node 日常练习
+
